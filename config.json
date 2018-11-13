@@ -1,6 +1,6 @@
 {
     "commands": {
         "prefix": ">",
-        "cooldown": 1000
+        "cooldown": 2000
     }
 }
