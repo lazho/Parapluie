@@ -1,0 +1,16 @@
+{
+  "name": "parapluie",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "discord.js": "^11.4.2",
+    "eslint": "^5.9.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

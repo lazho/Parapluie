@@ -1,3 +1,9 @@
+# Secret things that should not be committed
+secret.json
+
+# Modules
+node_modules
+
 # Logs
 logs
 *.log
